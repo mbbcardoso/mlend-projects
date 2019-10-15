@@ -12,6 +12,6 @@ Jupyter notebooks completed as part of Udacity's Machine Learning Engineer Nanod
 * customer_segments.ipynb
   * Segmenting customers via Clustering, an unsupervised learning algorithm
 * finding_donors.ipynb
-  * Utilizing supervised learning algorithms to predict individuals' income using data collected from the 1994 U.S. Census
+  * Utilizing supervised learning to predict individuals' income using data collected from the 1994 U.S. Census
 * boston_housing.ipynb 
   * Using sklearn to evaluate the performance of a model trained and tested on data from Boston's housing market
