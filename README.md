@@ -5,7 +5,7 @@ Jupyter notebooks completed as part of Udacity's Machine Learning Engineer Nanod
 * Python
 
 ## Files:
-* quadcopter_project.ipynb
+* quadcopter_rl.ipynb
   * Using the DDPG reinforcement learning alrogithm to train an agent to fly a virtual quadcopter
 * dog_app.ipynb
   * Applying Convolutional Neural Networks to create an app that identifies dog breeds from pictures
